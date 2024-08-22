@@ -43,8 +43,8 @@ const fadeItems = document.querySelectorAll(".fade");
 fadeItems.forEach((fadeItem) => {
   let startPosition = "top 90%",
     tweenOptions = {
-      duration: 1.5,
-      delay: 0.5,
+      duration: 1,
+      delay: 0.2,
       opacity: 1,
     };
 
@@ -64,8 +64,8 @@ fadeSlideItems.forEach((fadeSlideItem) => {
   let slideAmount = 80,
     startPosition = "top 90%",
     tweenOptions = {
-      duration: 1.3,
-      delay: 0.5,
+      duration: 1,
+      delay: 0.3,
       opacity: 0,
       ease: "power2.out",
     };
@@ -121,8 +121,8 @@ const splitChars = document.querySelectorAll(".split_chars");
 splitChars.forEach((item) => {
   let isScrollAble = true,
     tweenOptions = {
-      duration: 1.3,
-      delay: 0.5,
+      duration: 1,
+      delay: 0.3,
       autoAlpha: 0,
       stagger: 0.15,
       ease: "power2.out",
