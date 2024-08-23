@@ -2316,12 +2316,18 @@ align-items: center;
     }
 
     .PopUpHeaderBoxMiddle {
-        font-size: 20px;
+        font-size: 17px;
     }
 
     .CloseButton {
         width: 20px;
         height: 20px;
+    }
+    .PopUpHeaderBoxWrap3{
+      padding: 0px !important;
+    }
+    .PopUpHeaderBox{
+      padding: 15px 0px;
     }
 
     .heightfull {
