@@ -2138,37 +2138,40 @@ align-items: center;
     .brb {
         border-bottom: 0px solid #9D9D9D;
     }
+    .ServiceBlockImage{
+      height: 50px;
+    }
 
     .ServiceBlockImage.image1 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image2 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image3 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image4 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image5 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image6 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image7 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlockImage.image8 {
-        width: 65px;
+        width: 55px;
     }
 
     .ServiceBlock {
