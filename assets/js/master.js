@@ -2,7 +2,7 @@ $(document).ready(
     function(){
         windowHeight = jQuery(window).innerHeight();
         HeaderHeight = jQuery("header").innerHeight();
-        jQuery('.mainbannerImg1').css('height', (windowHeight-HeaderHeight)+'px');
+        // jQuery('.mainbannerImg1').css('height', (windowHeight-HeaderHeight)+'px');
         jQuery('.FullWidthHeight').css('height', (windowHeight)+'px');
         
         jQuery(window).scroll(function () {
