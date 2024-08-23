@@ -1375,6 +1375,7 @@ footer .container {
     color: #E2AD6B;
     text-align: center;
     font-size: 30px;
+    margin-bottom: 5px;
   }
   .Pt2{
     text-align: center;
@@ -2173,7 +2174,9 @@ align-items: center;
     .ServiceBlockImage.image8 {
         width: 55px;
     }
-
+    .HgAdhst .ProcessBlockT3 {
+      min-height: auto;
+    }
     .ServiceBlock {
         padding: 15px;
     }
