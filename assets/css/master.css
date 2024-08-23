@@ -2551,4 +2551,7 @@ font-size: 18px;
       .ContactForm1 button{
         width: 100%;
       }
+      br{
+        display: none !important;
+      }
 }
