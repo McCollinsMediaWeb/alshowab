@@ -197,4 +197,7 @@
       .LinkTp1 {
         width: 155px;
       }
+      .AccordionQuestion::after {
+        top: 18px;
+      }
   }
