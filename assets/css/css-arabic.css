@@ -166,6 +166,9 @@
   .HgAdhst .ProcessBlockT3 {
     min-height: 178px;
   }
+  .NumbersINMoving1 {
+    direction: ltr;
+  }
   @media only screen and (max-width: 1000px) {
     .HgAdhst .ProcessBlockT3 {
       min-height: auto;
