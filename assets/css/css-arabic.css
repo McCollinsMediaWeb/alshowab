@@ -163,8 +163,13 @@
   .ContactForm1 input, .ContactForm1 select, .ContactForm1 textarea{
     text-align: right !important;
   }
+  .HgAdhst .ProcessBlockT3 {
+    min-height: 178px;
+  }
   @media only screen and (max-width: 1000px) {
-
+    .HgAdhst .ProcessBlockT3 {
+      min-height: auto;
+    }
     .LanguageSwitcherLink {
         width: auto;
         padding: 0px 10px;
