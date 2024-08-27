@@ -213,4 +213,7 @@
       .Txt2 {
         font-size: 25px;
       }
+      .Form1 button {
+        padding: 6px;
+      }
   }
