@@ -179,6 +179,9 @@
   .AtT3 {
     font-size: 21px;
   }
+  .ServiceBlockDesc{
+    font-size: 16px;
+  }
   @media only screen and (max-width: 1000px) {
     .HgAdhst .ProcessBlockT3 {
       min-height: auto;
