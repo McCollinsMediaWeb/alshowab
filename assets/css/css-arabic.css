@@ -27,7 +27,12 @@
   .HeadrNavItem {
     font-weight: 600;
   }  
-
+  .Txt2 {
+    font-size: 45px;
+  }
+  .LinkTp1{
+    width: 175px;
+  }
   body{
     font-family: "Tajawal", sans-serif;
     font-weight: 400;
@@ -201,5 +206,8 @@
       }
       .AccordionQuestion::after {
         top: 18px;
+      }
+      .Txt2 {
+        font-size: 25px;
       }
   }
