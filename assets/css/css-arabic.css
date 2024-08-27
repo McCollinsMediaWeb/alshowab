@@ -33,6 +33,7 @@
     font-variation-settings:
         "slnt" 0;
         text-align: right;
+        font-size: 18px;
   }
   [dir="rtl"] .slick-prev {
     right: auto !important;
