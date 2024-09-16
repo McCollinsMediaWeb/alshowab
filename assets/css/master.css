@@ -2579,3 +2579,9 @@ font-size: 18px;
   width: 210px;
   max-width: 100%;
 }
+
+.page-template-homepage-urdu  .LinkTp2 ,
+.page-template-homepage-russia .LinkTp3{
+  width: 250px;
+  max-width: 100%;
+}
