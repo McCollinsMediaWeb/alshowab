@@ -2566,3 +2566,16 @@ font-size: 18px;
         display: none !important;
       }
 }
+
+.page-template-homepage-russia .LanguageSwitcherLink span{
+  top: 0;
+}
+
+.page-template-homepage-russia .LinkTp2{
+  width: 210px;
+  max-width: 100%;
+}
+.page-template-homepage-russia .LinkTp3{
+  width: 210px;
+  max-width: 100%;
+}
