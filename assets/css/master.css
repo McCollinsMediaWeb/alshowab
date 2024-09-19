@@ -2565,6 +2565,9 @@ font-size: 18px;
       br{
         display: none !important;
       }
+      .LanguageSwitcherLink span {
+        top: 0px;
+      }
 }
 
 .page-template-homepage-russia .LanguageSwitcherLink span{
