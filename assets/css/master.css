@@ -2585,7 +2585,8 @@ font-size: 18px;
         display: none !important;
       }
       .LanguageSwitcherLink span {
-        top: 0px;
+        top: -1px;
       }
+      
 }
 
