@@ -2007,6 +2007,25 @@ align-items: center;
     background-color: #E2AD6B;
     border: 2px solid #002341;
   }
+
+  .page-template-homepage-russia .LanguageSwitcherLink span{
+    top: 0;
+  }
+  
+  .page-template-homepage-russia .LinkTp2{
+    width: 210px;
+    max-width: 100%;
+  }
+  .page-template-homepage-russia .LinkTp3{
+    width: 210px;
+    max-width: 100%;
+  }
+  
+  .page-template-homepage-urdu  .LinkTp2 ,
+  .page-template-homepage-urdu  .LinkTp3{
+    width: 260px;
+    max-width: 100%;
+  }
 @media only screen and (max-width: 1000px) {
     .BlogImageM {
         height: 220px;
@@ -2570,21 +2589,3 @@ font-size: 18px;
       }
 }
 
-.page-template-homepage-russia .LanguageSwitcherLink span{
-  top: 0;
-}
-
-.page-template-homepage-russia .LinkTp2{
-  width: 210px;
-  max-width: 100%;
-}
-.page-template-homepage-russia .LinkTp3{
-  width: 210px;
-  max-width: 100%;
-}
-
-.page-template-homepage-urdu  .LinkTp2 ,
-.page-template-homepage-urdu  .LinkTp3{
-  width: 260px;
-  max-width: 100%;
-}
