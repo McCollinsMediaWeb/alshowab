@@ -2378,7 +2378,7 @@ align-items: center;
     }
 
     .HeaderBox {
-        padding: 5px 0px;
+        padding: 7px 5px;
     }
    
     .HeaderBoxRight {
@@ -2588,5 +2588,9 @@ font-size: 18px;
         top: -1px;
       }
       
+}
+
+.AttorneysBox {
+  display: none !important;
 }
 
