@@ -2587,6 +2587,10 @@ font-size: 18px;
       .LanguageSwitcherLink span {
         top: -1px;
       }
+      .SocialMediaIcon{
+        height: 20px;
+        width: 20px !important;
+      }
       
 }
 
