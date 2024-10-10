@@ -2591,6 +2591,9 @@ font-size: 18px;
         height: 20px;
         width: 20px !important;
       }
+      .SocialMediaIcon.facebook{
+        width: 15px !important;
+      }
       
 }
 
